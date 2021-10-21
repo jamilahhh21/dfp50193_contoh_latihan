@@ -46,7 +46,7 @@ if($idpengguna == 'admin') {
         #popup apabila login gagal
         function gagal()
         {
-            ?> 
+            ?>
             <script>
                 alert('Maaf, ID pengguna/katalaluan salah.');
                 window.location ='./';
